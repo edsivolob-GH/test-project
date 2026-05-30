@@ -8,7 +8,7 @@ def check_file(path):
         if isinstance(node, ast.FunctionDef):
             lines = node.end_lineno - node.lineno
             if lines > 30:
-                issues.appened(f"{node.name}: {lines} lines (consider splitting)")
+                issues.append(f"{node.name}: {lines} lines (consider splitting)")
     return issues
 
 if __name__ == "__main__":
