@@ -1,0 +1,3 @@
+1. Provide code for a coding problem
+2. Solve this problem to provide me solutions, be sure to go from the left most image to the right most image. Some questons have be formatted so that it requries multiple pages so go left to right
+3. Provide flashcards with a certain distribution of topics for an upcoming
